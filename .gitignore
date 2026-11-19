@@ -58,3 +58,5 @@ vite.config.ts.timestamp-*
 
 pnpm-lock.yaml
 static/message.txt
+
+.env
